@@ -3,7 +3,7 @@ rowsxcolumns is a simple code in python that lets you put how many rows and colu
 
 # How to use ?
 Using it is very simple. 
-*you must have python installed*
+*(you must have python installed)*
 
 ``python main.py``
 
